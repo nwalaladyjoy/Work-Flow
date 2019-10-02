@@ -1,2 +1,2 @@
 # Work-Flow
-To understand git and github
+To understand git and github more
